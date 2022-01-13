@@ -44,5 +44,21 @@ o quickly turn a URL or email address into a link, enclose it in angle brackets.
  All things to learn JS, biased for DS
 
 ## What I learnt? **The CHEAT Sheet**
+// This is a comment
+
+/* This is a
+multi-line comment */
+
+console.log("Hello World")
+
+JS stores all numbers to 64-bit floating points, so this means they are almost always accurate to about 15 dp
+
+In JS there are operators and functions.
+
+Operators just work with the object and functions need parentheses (or brackets)
+
+const - operator that defines a constant
+
 
 ## Where you can learn more?
+Online free book [**JavaScript for Data Science**](https://js4ds.org/ "JavaScript for Data Science")
