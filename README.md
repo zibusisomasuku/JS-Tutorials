@@ -32,7 +32,7 @@ You can optionally add a title for a link. This will appear as a tooltip when th
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
-o quickly turn a URL or email address into a link, enclose it in angle brackets.
+To quickly turn a URL or email address into a link, enclose it in angle brackets.
 
 <https://www.markdownguide.org>
 <fake@example.com> 
