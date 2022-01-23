@@ -91,10 +91,10 @@ If you want to say `myVar = myVar + 5`, you can just say `myVar += 5`. Remains t
 > **Tip**  It is common for developers to use UPPERCASE variable identifiers for immutable values and lowercase or camelCase for mutable values (objects and arrays).
 
 ### Escaping Literal Quotes in Strings
-When you need to escape literal quotes in strings, a code like this:
+When you need to escape literal quotes in strings, a code like this:  
 `const sampleStr = "Alan said, \"Peter is learning JavaScript\"."`
 
-Will give you the following result:
+Will give you the following result:  
 `Alan said, "Peter is learning JavaScript".`
 
 ### Escaping other sequences in strings
@@ -118,19 +118,19 @@ Computers count from 0. So in a string assigment `myName = "Charles"`, `myName[0
 > **Tip** In JavaScript, String values are immutable, which means that they cannot be altered once created. For instance, if `myStr = "Job"`, `myStr[0] = "B"` will lead to errors.
 
 ### Arrays
-Arrays allow JS to store several variables at once. Ideally, this is how you would use them:
+Arrays allow JS to store several variables at once. Ideally, this is how you would use them:  
 `const investments = ["risk", "reward", "return"]`
 
-You can also nest arrags within each other, say:
+You can also nest arrags within each other, say:  
 `const grades = [["Maths", 96], ["Physics", 100]]`
 
 > **Tip** You can use the same bracket notation to extract indices of array elements. You simply add additional square brackets for additional elements in a nested array. For instance, to get `100` from the `grades` array above, you would say: `grades[1][1]`. 
 
 ### Manipulating Arrays
-Using the `push()` function will add data to the end of an array. For instance:
+Using the `push()` function will add data to the end of an array. For instance:  
 `myBananaBread = ["flour", "eggs", "butter", "banana"]` denotes the elements of ingredients needed to make Banana Bread.
 
-Say our chef, tell us that Banana Bread tastes nicer with cinnamon, we can then use the `push()` function to add that element as follows:
+Say our chef, tell us that Banana Bread tastes nicer with cinnamon, we can then use the `push()` function to add that element as follows:  
 `myBananaBread.push("cinnamon")`
 
 The value of `myBananaBread` will now be `["flour", "eggs", "butter", "banana", "cinnamon"]`
