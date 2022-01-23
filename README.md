@@ -135,7 +135,7 @@ Say our chef, tell us that Banana Bread tastes nicer with cinnamon, we can then 
 
 The value of `myBananaBread` will now be `["flour", "eggs", "butter", "banana", "cinnamon"]`
 
-## Where you can learn more?
+## Where can you learn more?
 1. Online free book [**JavaScript for Data Science**](https://js4ds.org/ "JavaScript for Data Science")
 2. freeCodeCamp's [**JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "JavaScript and Data Structures")
 3. Learn JavaScript - Full Course for Beginners on YouTube [**Link here**](https://youtu.be/PkZNo7MFNFg "Play Learn JavaScript - Full Course for Beginners on YouTube")
