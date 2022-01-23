@@ -44,7 +44,7 @@ To quickly turn a URL or email address into a link, enclose it in angle brackets
 `// This is a comment` This is how you comment out code in JS. This is an example of a single line comment.
 
 This is an example of  multi-line comment block  
-`/* This is a  \n
+`/* This is a  
 multi-line comment */` 
 
 ### How do you print messages to console?
