@@ -121,7 +121,7 @@ Computers count from 0. So in a string assigment `myName = "Charles"`, `myName[0
 Arrays allow JS to store several variables at once. Ideally, this is how you would use them:  
 `const investments = ["risk", "reward", "return"]`
 
-You can also nest arrags within each other, say:  
+You can also nest arrays within each other, say:  
 `const grades = [["Maths", 96], ["Physics", 100]]`
 
 > **Tip** You can use the same bracket notation to extract indices of array elements. You simply add additional square brackets for additional elements in a nested array. For instance, to get `100` from the `grades` array above, you would say: `grades[1][1]`. 
@@ -136,6 +136,6 @@ Say our chef, tell us that Banana Bread tastes nicer with cinnamon, we can then 
 The value of `myBananaBread` will now be `["flour", "eggs", "butter", "banana", "cinnamon"]`
 
 ## Where can you learn more?
-1. Online free book [**JavaScript for Data Science**](https://js4ds.org/ "JavaScript for Data Science")
+1. [**JavaScript Reference | Mozilla Developer Network**](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript Reference | Mozilla Developer Network")
 2. freeCodeCamp's [**JavaScript Algorithms and Data Structures**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/ "JavaScript and Data Structures")
 3. Learn JavaScript - Full Course for Beginners on YouTube [**Link here**](https://youtu.be/PkZNo7MFNFg "Play Learn JavaScript - Full Course for Beginners on YouTube")
